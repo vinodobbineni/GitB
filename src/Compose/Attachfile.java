@@ -9,10 +9,13 @@ public class Attachfile {
 		
 		WebDriver driver =new ChromeDriver();
 		driver.get("https://www.google.com/intl/en-GB/gmail/about/#");
-		System.out.println("bla bla");
+		/*System.out.println("bla bla");
 		System.out.println("pickel");
 		System.out.println("pick");
-		System.out.println("picke");
+		System.out.println("picke");*/
+		System.out.println("Pickend");
+		System.out.println("level");
+		
 	}
 
 }
