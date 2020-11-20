@@ -17,7 +17,7 @@ public class Attachfile {
 		System.out.println("level");
 		System.out.println("Pickend");*/
 		System.out.println("level");
-		System.out.println("level");
+	
 		System.out.println("ball");
 		System.out.println("ball2");
 	}
