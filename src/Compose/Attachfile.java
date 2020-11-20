@@ -12,7 +12,7 @@ public class Attachfile {
 		System.out.println("bla bla");
 		System.out.println("pickel");
 		System.out.println("pick");
-		System.out.println("picke");
+		
 	}
 
 }
